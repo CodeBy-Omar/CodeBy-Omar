@@ -64,7 +64,7 @@ I'm a Computer Science graduate from Coventry University with hands-on experienc
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeBy-Omar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBy-Omar&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodeBy-Omar&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeBy-Omar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeBy-Omar&theme=onedark&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📬 Get in Touch
 
